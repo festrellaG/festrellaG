@@ -21,7 +21,7 @@
  <div id="header" align="left">
 
 ### :man_technologist: About me :
-I am passionate about technology and enjoy the important work of software quality testing. With over 10 years of experience in the tech industry, I have honed my skills in developing both front end and backend systems. I love learning new things and exploring new technologies, which keeps me motivated and engaged in my field.  I am also a natural leader, capable of building high-performing teams and mentoring junior engineers. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am passionate about technology and enjoy the important work of software engineering. With over 10 years of experience in the tech industry, I have honed my skills in developing both front end and backend systems. I love learning new things and exploring new technologies, which keeps me motivated and engaged in my field.  I am also a natural leader, capable of building high-performing teams and mentoring junior engineers. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: I am currently working and studying :blue_book: and practicing :computer: on front end I am using React, CSS, HTML5, MongoDB and JavaScript and 
  in backend I am using javascript or Java, Rest Api, MVC, SpringBoot. I'm looking for new challenges :muscle:
 * :nerd_face:  I am actively improving my development skills:computer:, working on backend projects with Java and Spring Boot, using Maven and on front end projects with React, Html5, CSS, Babel, Vite and BEM methodology. 
