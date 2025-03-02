@@ -42,6 +42,7 @@ I am passionate about technology and enjoy the important work of software qualit
   <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img decoding="async" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img decoding="async" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img decoding="async" src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat"/>
   <img decoding="async" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio"/>
@@ -62,6 +63,12 @@ I am passionate about technology and enjoy the important work of software qualit
   <img decoding="async" src="https://img.shields.io/badge/AmazonS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS"/>
   <img decoding="async" src="https://img.shields.io/badge/Firebase-232F3E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img decoding="async" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img decoding="async" src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img decoding="async" src="https://img.shields.io/badge/Jmeter-1572B6?style=for-the-badge&logo=Jmeter&logoColor=white" alt="Jmeter"/>
+  <img decoding="async" src="https://img.shields.io/badge/MyEclipse-1572B6?style=for-the-badge&logo=myeclipse&logoColor=white" alt="MyEclipse"/>
+  <img decoding="async" src="https://img.shields.io/badge/Crud-1572B6?style=for-the-badge&logo=crud&logoColor=white" alt="Crud"/>
+  <img decoding="async" src="https://img.shields.io/badge/Putty-1572B6?style=for-the-badge&logo=putty&logoColor=white" alt="PUTTY"/>
+  <img decoding="async" src="https://img.shields.io/badge/CVS-1572B6?style=for-the-badge&logo=cvs&logoColor=white" alt="CVS"/>
 </div>
 
 <img decoding="async" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
