@@ -33,21 +33,33 @@ I am passionate about technology and enjoy the important work of software qualit
 <img decoding="async" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-  <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img decoding="async" src="https://img.shields.io/badge/cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress"/>
-  <img decoding="async" src="https://img.shields.io/badge/Selenium-FFBE00?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
-  <img decoding="async" src="https://img.shields.io/badge/Postman-ffA500?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  <img decoding="async" src="https://img.shields.io/badge/jira-00008B?style=for-the-badge&logo=jira&logoColor=white" alt="jira"/>
-  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=PostgreSQL&logoColor=blue" alt="PostgreSQL"/>
+  <img decoding="async" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img decoding="async" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 8"/>
+  <img decoding="async" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Js"/>
+  <img decoding="async" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img decoding="async" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img decoding="async" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img decoding="async" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img decoding="async" src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
-  <img decoding="async" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img decoding="async" src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat"/>
+  <img decoding="async" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio"/>
   <img decoding="async" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img decoding="async" src="https://img.shields.io/badge/Xray-01386D?style=for-the-badge&logo=xray&logoColor=white" alt="Xray"/>
-  <img decoding="async" src="https://img.shields.io/badge/TestRail-4682B4?style=for-the-badge&logo=TestRail&logoColor=white" alt="TestRail"/>
+  <img decoding="async" src="https://img.shields.io/badge/SOAP_UI-6A4C3C?style=for-the-badge&logo=soapui&logoColor=white" alt="SOAP UI"/>
+  <img decoding="async" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit"/>
+  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img decoding="async" src="https://img.shields.io/badge/Oracle-FFA500?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
+  <img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img decoding="async" src="https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img decoding="async" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+  <img decoding="async" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
+  <img decoding="async" src="https://img.shields.io/badge/NetBeans-0086D1?style=for-the-badge&logo=apachenetbeans&logoColor=white" alt="NetBeans"/>
+  <img decoding="async" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img decoding="async" src="https://img.shields.io/badge/Struts-CC3E44?style=for-the-badge&logo=apachestruts&logoColor=white" alt="Struts"/>
+  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
 <img decoding="async" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
