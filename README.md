@@ -48,8 +48,8 @@ I am passionate about technology and enjoy the important work of software qualit
   <img decoding="async" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img decoding="async" src="https://img.shields.io/badge/SOAP_UI-6A4C3C?style=for-the-badge&logo=soapui&logoColor=white" alt="SOAP UI"/>
   <img decoding="async" src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit"/>
-  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img decoding="async" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
+  <img decoding="async" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL"/>
   <img decoding="async" src="https://img.shields.io/badge/Oracle-FFA500?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL"/>
   <img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img decoding="async" src="https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
@@ -58,8 +58,8 @@ I am passionate about technology and enjoy the important work of software qualit
   <img decoding="async" src="https://img.shields.io/badge/NetBeans-0086D1?style=for-the-badge&logo=apache&logoColor=white" alt="NetBeans"/>
   <img decoding="async" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img decoding="async" src="https://img.shields.io/badge/Struts-CC3E44?style=for-the-badge&logo=apachestruts&logoColor=white" alt="Struts"/>
-  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazonwebservices&logoColor=white" alt="AWS"/>
-  <img decoding="async" src="https://img.shields.io/badge/AmazonS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazonwebservices&logoColor=black" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/AmazonS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=black" alt="AWS"/>
   <img decoding="async" src="https://img.shields.io/badge/Firebase-232F3E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img decoding="async" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
