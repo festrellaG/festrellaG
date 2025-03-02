@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/festrellaG/festrellaG/blob/main/background_github.jpg" width="900"/>
+  <img decoding="async" src="https://github.com/festrellaG/festrellaG/blob/main/Fabian_GitBanner2.png" width="900"/>
 </div>
 
 
@@ -33,17 +33,17 @@ I am passionate about technology and enjoy the important work of software qualit
 <img decoding="async" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
-  <img decoding="async" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img decoding="async" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img decoding="async" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 8"/>
-  <img decoding="async" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Js"/>
+  <img decoding="async" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Js"/>
   <img decoding="async" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img decoding="async" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   <img decoding="async" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img decoding="async" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img decoding="async" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img decoding="async" src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat"/>
+  <img decoding="async" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img decoding="async" src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="Tomcat"/>
   <img decoding="async" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio"/>
   <img decoding="async" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img decoding="async" src="https://img.shields.io/badge/SOAP_UI-6A4C3C?style=for-the-badge&logo=soapui&logoColor=white" alt="SOAP UI"/>
@@ -54,21 +54,23 @@ I am passionate about technology and enjoy the important work of software qualit
   <img decoding="async" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img decoding="async" src="https://img.shields.io/badge/MariaDB-003B57?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img decoding="async" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-  <img decoding="async" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
-  <img decoding="async" src="https://img.shields.io/badge/NetBeans-0086D1?style=for-the-badge&logo=apachenetbeans&logoColor=white" alt="NetBeans"/>
+  <img decoding="async" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" alt="Babel"/>
+  <img decoding="async" src="https://img.shields.io/badge/NetBeans-0086D1?style=for-the-badge&logo=apache&logoColor=white" alt="NetBeans"/>
   <img decoding="async" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img decoding="async" src="https://img.shields.io/badge/Struts-CC3E44?style=for-the-badge&logo=apachestruts&logoColor=white" alt="Struts"/>
-  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazonwebservices&logoColor=white" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/AmazonS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/Firebase-232F3E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img decoding="async" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
 <img decoding="async" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider"/>
 
 <div id="stats" align="center">
-  <img decoding="async" src="https://github-readme-stats.vercel.app/api?username=EMTA30&show_icons=true&theme=radical" alt="Eva's GitHub stats"/>
-  <img decoding="async" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMTA30&layout=compact&theme=radical" alt="Top languages"/>
+  <img decoding="async" src="https://github-readme-stats.vercel.app/api?username=festrellaG&show_icons=true&theme=github_dark_dimmed" alt="Fabian's GitHub stats"/>
+  <img decoding="async" src="https://github-readme-stats.vercel.app/api/top-langs/?username=festrellaG&layout=compact&theme=github_dark_dimmed" alt="Top languages"/>
 </div>
 
 <div id="streak-stats" align="center">
-  <img decoding="async" src="https://github-readme-streak-stats.herokuapp.com/?user=EMTA30&theme=radical" alt="Eva's GitHub streak"/>
+  <img decoding="async" src="https://github-readme-streak-stats.herokuapp.com/?user=festrellaG&theme=dark" alt="Fabian's GitHub streak"/>
 </div>
