@@ -58,8 +58,8 @@ I am passionate about technology and enjoy the important work of software qualit
   <img decoding="async" src="https://img.shields.io/badge/NetBeans-0086D1?style=for-the-badge&logo=apache&logoColor=white" alt="NetBeans"/>
   <img decoding="async" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img decoding="async" src="https://img.shields.io/badge/Struts-CC3E44?style=for-the-badge&logo=apachestruts&logoColor=white" alt="Struts"/>
-  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazonwebservices&logoColor=black" alt="AWS"/>
-  <img decoding="async" src="https://img.shields.io/badge/AmazonS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=black" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazonwebservices&logoColor=white" alt="AWS"/>
+  <img decoding="async" src="https://img.shields.io/badge/AmazonS3-232F3E?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS"/>
   <img decoding="async" src="https://img.shields.io/badge/Firebase-232F3E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img decoding="async" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
